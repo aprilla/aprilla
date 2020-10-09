@@ -2,7 +2,7 @@
  
 - 🔭 I’m a Staff Engineering manager at GitHub working on Codespaces
 - 👯 I’m looking to collaborate on engineering leadership
-- 🤔 I’m looking for feedback on my blog aprilleonard.me
+- 🤔 I’m looking for feedback on my blog [aprilleonard.me](https://aprilleonard.me)
 - 💬 Ask me about buildling and growing engineering teams – from people to process and technology
 - 🌱 I’m currently learning scales on my (accoustic) 🎸 and reading leadership 📚
 - 📫 How to reach me: [aprilla](https://twitter.com/aprilla)

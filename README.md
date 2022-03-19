@@ -8,7 +8,6 @@
 - 📫 How to reach me: [aprilla](https://twitter.com/aprilla)
 - 😄 Pronouns: she/her
 - 🐝 I’m an activator, individualizer, and relationship builder who is always learning
-- 🎙 Leads the [PDXWIT Humanizing Tech Podcast](https://www.pdxwit.org/podcast)
 - ⚡️ Fun facts: 
   - Nearly quit high school to become a professional ballerina
   - Entered Uni in vocal performance, left as a Computer Science major with a Math minor 

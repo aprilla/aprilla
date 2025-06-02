@@ -1,6 +1,6 @@
 ### Hi, I'm April Leonard ✨
  
-- 🔭 I’m a Director of Engineering at GitHub working on the Copilot Intelligent Platform
+- 🔭 I’m a VP of Engineering at GitHub working on the Copilot Intelligent Platform
 - 👯 I’m looking to collaborate on engineering leadership
 - 🤔 I’m looking for feedback on my blog [aprilleonard.me](https://aprilleonard.me)
 - 💬 Ask me about buildling and growing engineering teams – from people to process and technology
